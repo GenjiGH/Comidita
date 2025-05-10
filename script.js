@@ -80,3 +80,7 @@ function handleNoClick() {
 function handleSíClick() {
     window.location.href = "yes_page.html";
 }
+
+function handleRClick() {
+    window.location.href = "index.html";
+}
